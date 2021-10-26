@@ -1,16 +1,84 @@
-### Hi there 👋
+<h1 align="center">
+  Hi, I'm Luan!
+</h1>
 
-<!--
-**luanpires94/luanpires94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+📬 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1cDhBNt78kyl5Z_F4GOqKhznLKNxVco9e/view?usp=sharing)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luan.94pires@gmail.com)
+[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luan-pires-359216184/)
+   
+<br />
+<br />
+<!-- About -->
+
+🚀 About me
+
+<p align="left">
+  💻 Front-end developer React.js
+</p>
+
+<p align="left">
+  📌 I live in Rio de Janeiro - BR
+</p>
+
+<p align="left">
+  👨‍🎓 Student at Bootcamp Ignite on the trail of React.js, React Native and Node.js
+</p>
+<p align="left">
+ 🤓 I'm currently focused on the front-end learning the technologies: React.js, TypeScript, Next.js, and Styled-Components...
+</p>
+
+💬 Any help or tips is always welcome!
+
+<p align="left">❤️ **interests:** 📺 watch animes and 🎮 play games.</p>
+
+---
+
+### 🛠️ Skills
+
+#### :wrench: Tools and environments
+
+<!-- GIT -->
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<!-- NPM -->
+<a href="#">
+      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<!-- YARN -->
+<a href="#">
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+</a>
+<!-- BABEL -->
+<a href="#">
+      <img alt="Babel" src="https://img.shields.io/badge/babel-FCDF3F.svg?style=for-the-badge&logo=babel&logoColor=white" />
+</a>
+<!-- WEBPACK -->
+<a href="#">
+      <img alt="Webpack" src="https://img.shields.io/badge/webpack-2C8EBB.svg?style=for-the-badge&logo=webpack&logoColor=white" />
+</a>
+
+### :computer: Front-End Development
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br />
+
+## 📈 **My GitHub Stats:**
+
+<!-- Stats -->
+<p>
+    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanpires94&theme=dracula&layout=compact" alt="Luan Pires" />
+</p>
