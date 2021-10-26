@@ -52,21 +52,12 @@
 <a href="#">
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
-<!-- BABEL -->
-<a href="#">
-      <img alt="Babel" src="https://img.shields.io/badge/babel-FCDF3F.svg?style=for-the-badge&logo=babel&logoColor=white" />
-</a>
-<!-- WEBPACK -->
-<a href="#">
-      <img alt="Webpack" src="https://img.shields.io/badge/webpack-2C8EBB.svg?style=for-the-badge&logo=webpack&logoColor=white" />
-</a>
 
 ### :computer: Front-End Development
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
