@@ -29,7 +29,7 @@
   👨‍🎓 Student at Bootcamp Ignite on the trail of React.js, React Native and Node.js
 </p>
 <p align="left">
- 🤓 I'm currently focused on the front-end learning the technologies: React.js, TypeScript, Next.js, and Styled-Components...
+ 🤓 I'm currently focused on the front-end learning the technologies: React.js, Gatsby, and GraphQL.
 </p>
 
 <p align="left">❤️ interests: 📺 watch animes and 🎮 play games.</p>
