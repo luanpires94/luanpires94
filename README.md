@@ -26,13 +26,13 @@
 </p>
 
 <p align="left">
-  👨‍🎓 Student at Bootcamp Ignite on the trail of React.js, React Native and Node.js
+  👨‍🎓 Student at Bootcamp Ignite on the trail of React.js
 </p>
 <p align="left">
- 🤓 I'm currently focused on the front-end learning the technologies: React.js, Gatsby, and GraphQL.
+ 🤓 I'm currently focused on the front-end learning the technologies: React.js, Gatsby, Graphql, and GraphCMS
 </p>
 
-<p align="left">❤️ interests: 📺 watch animes and 🎮 play games.</p>
+<p align="left">❤️ interests: 📺 watch animes and 🎮 play games</p>
 
 ---
 
