@@ -7,7 +7,7 @@
 
 📬 Contact
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]([https://drive.google.com/file/d/175NMWD6yJKsCqw7PWO5Q7BZ234KrpTKc/view?usp=sharing](https://drive.google.com/file/d/175NMWD6yJKsCqw7PWO5Q7BZ234KrpTKc/view?usp=sharing))
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/175NMWD6yJKsCqw7PWO5Q7BZ234KrpTKc/view?usp=sharing](https://drive.google.com/file/d/175NMWD6yJKsCqw7PWO5Q7BZ234KrpTKc/view?usp=sharing))
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luan.94pires@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luan-pires-359216184/)
    
