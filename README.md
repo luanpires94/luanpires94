@@ -18,7 +18,7 @@
 🚀 About me
 
 <p align="left">
-  💻 Front-end developer React.js
+  💻 Front-End Developer
 </p>
 
 <p align="left">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  👨‍🎓 Student at Bootcamp Ignite on the trail of React.js
+  👨‍🎓 Student faculty of systems analysis and development
 </p>
 <p align="left">
  🤓 I'm currently focused on the front-end learning the technologies: React.js, Next.js, SASS, Styled-Components.
