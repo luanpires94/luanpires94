@@ -4,10 +4,6 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </h1>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/65383016?v=4" align="right" height="330">
-</div>
-
 <div align="left" width="60%">
   
   - 🔭 I’m currently working on **front-end projects**
