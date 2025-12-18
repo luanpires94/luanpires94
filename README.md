@@ -9,8 +9,6 @@
   - 🔭 I’m currently working on **front-end projects**
   
   - 👨‍💻 All of my projects are available at [**Repositories**](https://github.com/luanpires94)
-    
-  - 📫 How to reach me: [**Drop a Mail**](mailto:luan.94pires@gmail.com) or [**Connect via LinkedIn**](https://www.linkedin.com/in/luanpires94/)
   
   <br>
   
