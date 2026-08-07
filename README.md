@@ -6,7 +6,7 @@
 
 <div align="left" width="60%">
   
-  - 🔭 I’m currently working on **front-end projects**
+  - 🔭 I’m currently working on **Fullstack projects**
   
   - 👨‍💻 All of my projects are available at [**Repositories**](https://github.com/luanpires94)
   
