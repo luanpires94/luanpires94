@@ -74,8 +74,4 @@
 
 <br><br>
 
-## ⭐ GitHub Stats
-<div>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanpires94&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&title_color=0C5851&text_color=0C5851&icon_color=0C5851&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=en&border_radius=8&card_width=300" width="100%" align="center"/>
-  <br> <br> <br> <br> 
 </div>
